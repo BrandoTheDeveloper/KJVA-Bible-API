@@ -38,4 +38,4 @@ build/
 .idea/
 *.mv.db
 *.env
-application-local.properties
+
